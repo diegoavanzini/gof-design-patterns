@@ -3,20 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstractfactory", "abstractfactory\abstractfactory.csproj", "{F6A3D894-B446-459B-AF11-EFB47C44FFCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adapter", "adapter\adapter.csproj", "{87BC23AE-63FD-413C-87CC-AD805C56AC8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18991D4E-48CB-44E3-B849-4C20C6B35631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18991D4E-48CB-44E3-B849-4C20C6B35631}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18991D4E-48CB-44E3-B849-4C20C6B35631}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18991D4E-48CB-44E3-B849-4C20C6B35631}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F6A3D894-B446-459B-AF11-EFB47C44FFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F6A3D894-B446-459B-AF11-EFB47C44FFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6A3D894-B446-459B-AF11-EFB47C44FFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6A3D894-B446-459B-AF11-EFB47C44FFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BC23AE-63FD-413C-87CC-AD805C56AC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BC23AE-63FD-413C-87CC-AD805C56AC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BC23AE-63FD-413C-87CC-AD805C56AC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BC23AE-63FD-413C-87CC-AD805C56AC8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
